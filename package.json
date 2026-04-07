@@ -1,5 +1,5 @@
 {
-  "name": "ai-alias",
+  "name": "@lxgicstudios/ai-alias",
   "version": "1.0.0",
   "description": "AI-powered shell alias generator - create smart bash/zsh shortcuts with GPT",
   "main": "dist/index.js",
