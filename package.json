@@ -15,34 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
-    "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "shell",
-    "bash",
-    "zsh",
+    "ai-2025",
+    "ai-powered",
     "alias",
-    "productivity",
-    "developer-tools",
-    "cli",
+    "anthropic",
     "automation",
-    "typescript",
+    "bash",
+    "claude",
+    "cli",
+    "command-line",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "terminal",
-    "command-line"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "productivity",
+    "seo",
+    "seo-2026",
+    "shell"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-alias#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-alias.git"
+    "url": "https://github.com/LXGIC-Studios/ai-alias"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-alias/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-alias/issues"
   },
   "funding": {
     "type": "github",
